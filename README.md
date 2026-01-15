@@ -1,4 +1,4 @@
-# NLR_Classes_MaravilhaR
+# NLR_Classes_MaravilhaR_012026.R
 The NLR_Classes_MaravilhaR R script takes 3 files: an excel file labelled “NLR Classes Legumes w RefPlantNLR.xlsx”, "RefPlantNLR.xlsx" and "Fabales_LOCUS_09012023.tsv".
  
 The R script was heavily based on Jiorgos Kourelis' scripts. It takes: 
@@ -7,7 +7,7 @@ The R script was heavily based on Jiorgos Kourelis' scripts. It takes:
 3) Fabales_LOCUS_09012023.tsv - All the loci of the employed Fabaceae species with the respective sequence names, for deduplication purposes
 And generates graphs for comparative NLRome analysis.
 
-# DESEQ_Single_Pipeline_RitaMaravilha_2024
+# DESEQ_Single_Pipeline_RitaMaravilha_012026.R
 Takes count data from Stringtie, performs differential expression analysis and contains data visualization sections
 
 # Trim_BLASTp_Results
