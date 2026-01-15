@@ -12,3 +12,5 @@ Takes count data from Stringtie, performs differential expression analysis and c
 
 # Trim_BLASTp_Results
 Takes BLASTp results, filters them and contains data visualization sections
+
+Kourelis, J., Sakai, T., Adachi, H., & Kamoun, S. (2021). RefPlantNLR is a comprehensive collection of experimentally validated plant disease resistance proteins from the NLR family. PLoS Biology, 19(10), e3001124.
