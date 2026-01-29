@@ -1,4 +1,7 @@
-More information can be found in: Maravilha Marques, R., Santos, C., Pai, H., Vaz Patto, M. C., Kamoun, S., & Kourelis, J. (2026). Legume NLR immune receptors exhibit tissue-specific expression patterns across species - scripts and data. Zenodo. https://doi.org/10.5281/zenodo.18173999
+More information can be found in: 
+https://www.biorxiv.org/content/10.64898/2026.01.25.701577v1
+Marques, R. M., Santos, C., Pai, H., Patto, M. C. V., Kamoun, S., & Kourelis, J. (2026). NLR immune receptors can exhibit tissue-specific expression patterns across legume species. bioRxiv, 2026-01.
+Maravilha Marques, R., Santos, C., Pai, H., Vaz Patto, M. C., Kamoun, S., & Kourelis, J. (2026). Legume NLR immune receptors exhibit tissue-specific expression patterns across species - scripts and data. Zenodo. https://doi.org/10.5281/zenodo.18173999
 
 # NLR_Classes_MaravilhaR_012026.R
 The NLR_Classes_MaravilhaR R script takes 3 files: an excel file labelled “NLR Classes Legumes w RefPlantNLR.xlsx”, "RefPlantNLR.xlsx" and "Fabales_LOCUS_09012023.tsv".
